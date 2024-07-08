@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Versiculos Sortidos</string>
+    <string name="clique">Clique para gerar um versículo</string>
+    <string name="pressione">Pressione o botão para gerar um versículo</string>
+</resources>
